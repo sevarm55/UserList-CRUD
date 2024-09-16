@@ -1,11 +1,46 @@
 {
-    "users":[
-        {
-            "id": "101",
-            "name": "Sevak",
-            "surname": "Movsisyan",
-            "age": 29,
-            "salary": 500000
-        }
-    ]
+  "users": [
+    {
+      "id": "102",
+      "name": "Lionel",
+      "surname": "Messi",
+      "age": 36,
+      "salary": "65000000"
+    },
+    {
+      "id": "103",
+      "name": "Cristiano",
+      "surname": "Ronaldo",
+      "age": 39,
+      "salary": "63000000"
+    },
+    {
+      "id": "104",
+      "name": "Kylian",
+      "surname": "Mbappe",
+      "age": 25,
+      "salary": "75000000"
+    },
+    {
+      "id": "105",
+      "name": "Neymar",
+      "surname": "Junior",
+      "age": 32,
+      "salary": "45000000"
+    },
+    {
+      "id": "106",
+      "name": "Kevin",
+      "surname": "De Bruyne",
+      "age": 32,
+      "salary": "30000000"
+    },
+    {
+      "id": "107",
+      "name": "Erling",
+      "surname": "Haaland",
+      "age": 23,
+      "salary": "35000000"
+    }
+  ]
 }
